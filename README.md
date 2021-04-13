@@ -1,0 +1,2 @@
+# Sistema-de-Telemetria
+Este sistema de telemetría está enfocado a la cardiología mediante la construcción de un sistema para la obtención de electrocardiogramas que son analizando mediante una interfaz gráfica, posteriormente estos datos obtenidos en el sistema de electrocardiograma son almacenados en una base de datos que se encuentra situada en una página web para que posteriormente el medico analice este electrocardiograma y pueda dar un diagnostico a distancia.
